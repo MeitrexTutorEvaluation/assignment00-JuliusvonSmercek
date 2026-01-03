@@ -8,7 +8,7 @@ public class Main {
   }
 
   /**
-   * TODO: Write a method to add two integers.
+   * TODO: Write a method to add two integers. 
    */
   public static int add(int a, int b) {
     return a + b;
